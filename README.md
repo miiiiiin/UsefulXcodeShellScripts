@@ -1,6 +1,9 @@
 ## ResetXcode
 shell script for cleaning Derived Data &amp; Caches from Xcode
 
+```shall
+sh resetXcode.sh
+```
 
 ## Find Unused Code
 
